@@ -10,6 +10,7 @@ public class Main {
     @RequestMapping("/")
     String home() {
         return "Hello World -  Jose Mier v3!";
+<title> Dragon Ball Z <title>
     }
     
     @RequestMapping("/prueba")
